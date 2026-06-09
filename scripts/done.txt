@@ -1,1 +1,2 @@
 AT&T BGW320 flashing red light what it means
+AT&T BGW320 internet slow speed fix
