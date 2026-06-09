@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Fix My Internet</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://fixmy-internet.netlify.app/tags/</link>
     <description>Recent content in Tags on Fix My Internet</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2026 10:28:19 +0000</lastBuildDate>
+    <atom:link href="https://fixmy-internet.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT&amp;T</title>
+      <link>https://fixmy-internet.netlify.app/tags/att/</link>
+      <pubDate>Tue, 09 Jun 2026 10:28:19 +0000</pubDate>
+      <guid>https://fixmy-internet.netlify.app/tags/att/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BGW320</title>
+      <link>https://fixmy-internet.netlify.app/tags/bgw320/</link>
+      <pubDate>Tue, 09 Jun 2026 10:28:19 +0000</pubDate>
+      <guid>https://fixmy-internet.netlify.app/tags/bgw320/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fix</title>
+      <link>https://fixmy-internet.netlify.app/tags/fix/</link>
+      <pubDate>Tue, 09 Jun 2026 10:28:19 +0000</pubDate>
+      <guid>https://fixmy-internet.netlify.app/tags/fix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet</title>
+      <link>https://fixmy-internet.netlify.app/tags/internet/</link>
+      <pubDate>Tue, 09 Jun 2026 10:28:19 +0000</pubDate>
+      <guid>https://fixmy-internet.netlify.app/tags/internet/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
