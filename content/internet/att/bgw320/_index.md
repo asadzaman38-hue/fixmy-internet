@@ -1,4 +1,4 @@
 ---
-title: "AT&T BGW320 Fixes"
-description: "All BGW320 lights, errors, and no-internet fixes."
+title: "AT&T BGW320 Guides"
 ---
+Model-specific fixes for the AT&T BGW320 gateway.
